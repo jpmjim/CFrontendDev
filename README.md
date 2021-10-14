@@ -1,2 +1,1 @@
-# CFrontendDev
-Clases del Curso de Frontend Developer
+# Clases del Curso de Frontend Developer
